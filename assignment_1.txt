@@ -1,1 +1,28 @@
+Applying Computational Thinking to Plan a Weekend Gateway to Muree
 
+1.	DECOMPOSITION
+
+⦁	Decide Travel Dates
+⦁	Booking Transportations
+⦁	Budgeting and cost estimation
+⦁	Planning Activities
+
+2. PATTERN RECOGNITION
+
+⦁	Weather in Muree
+⦁	popular sites
+⦁	local preferences
+
+3. ABSTRACTIONS
+
+⦁	Travel Time from Rawalpindi to Murree
+⦁	Must Visit Places in Murree
+⦁	Budget Constraints
+
+4. ALGORITHM DESIGN
+
+1.	Decide Dates and Book transport
+2.	Book Accommodation
+3.	Plan Daily Activities
+4.	Check Weather Forecast
+5.	Finalize Budget
